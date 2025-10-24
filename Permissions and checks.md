@@ -25,7 +25,7 @@ permission.UserHasPermission(player.UserIDString, perm)
             BasePlayer player = info.InitiatorPlayer;
 
             if (animal == null || player == null || info == null) return;
-            if (HasPerm(player, Warning_Perm))
+            if (HasPerm(player, Admin_Perm))
             {
               // Do your thing
             }
