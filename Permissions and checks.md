@@ -1,4 +1,4 @@
-Naking your permissions is pretty simple
+Making your permissions is pretty simple
 There are several options but this is what i like to use
 
 The actual check
